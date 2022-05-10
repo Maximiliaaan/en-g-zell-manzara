@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+}
+header {
+  background-image: url("./image/tree.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+}
+.divilk {
+  text-align: center;
+}
+.ilkbaş {
+  color: white;
+  font-size: 3rem;
+  padding-top: 10rem;
+}
+.altbaş {
+  color: white;
+  font-size: 2rem;
+  padding-top: 1.5rem;
+}
+.diviki {
+  margin-left: 570px;
+}
+.divs {
+  width: 6rem;
+  height: 0.7rem;
+  background-color: rgb(194, 190, 190);
+  float: left;
+  margin: 10px;
+}
+.div1 {
+  background-color: rgb(245, 72, 9);
+}
