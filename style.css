@@ -5,6 +5,7 @@ header {
   background-image: url("./image/tree.webp");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center center;
   height: 750px;
 }
 .divilk {
